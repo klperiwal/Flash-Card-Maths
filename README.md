@@ -1,3 +1,5 @@
+### THIS REPOSITORY IS A PART OF THE MINOR JAVA PROJECT
+
 The Flash Card Math Project is a Java program that allows users to practice basic math facts. The program includes various controls and options to customize the types of problems and timing.
 
 # Controls:
